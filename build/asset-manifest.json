@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a39e92ef.css",
+    "main.js": "/static/js/main.193cbdee.js",
+    "static/media/Iranian Sans.ttf": "/static/media/Iranian Sans.8c2ed8fb0154947263c5.ttf",
+    "index.html": "/index.html",
+    "main.a39e92ef.css.map": "/static/css/main.a39e92ef.css.map",
+    "main.193cbdee.js.map": "/static/js/main.193cbdee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39e92ef.css",
+    "static/js/main.193cbdee.js"
+  ]
+}
